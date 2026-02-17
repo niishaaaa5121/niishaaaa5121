@@ -8,9 +8,16 @@ I am passionate about building smart systems and learning how data drives the wo
 - 📊 Data Analysis
 - 🤖 Machine Learning Basics
 
-### 🌱 Current Goals:
-- Building my first AI spam classifier
-- Contributing to open-source projects
+## 🎯 Learning Roadmap (Pre-College)
+- [x] Set up my GitHub Portfolio 🚀
+- [x] Start learning Python basics on YouTube 🐍
+- [ ] Build a simple "Email Slicer" project 📧
+- [ ] Complete my first 30 days of coding consistency
+
+## 🎓 Future Goals (BCA Semester 1)
+- [ ] Learn Data Structures using Python
+- [ ] Build an AI Spam Classifier (My first ML project!) 🤖
+- [ ] Start participating in Kaggle beginner competitions
 
 ### 🛠️ My Tech Status
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
