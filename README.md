@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Nisha! 👋
 
-<!--
-**niishaaaa5121/niishaaaa5121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a *first-year BCA student* specializing in *Artificial Intelligence and Machine Learning*. 
+I am passionate about building smart systems and learning how data drives the world.
 
-Here are some ideas to get you started:
+### 🛠️ Skills I'm Learning:
+- 🐍 Python Programming
+- 📊 Data Analysis
+- 🤖 Machine Learning Basics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Current Goals:
+- Building my first AI spam classifier
+- Contributing to open-source projects
